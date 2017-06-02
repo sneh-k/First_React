@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import SearchBar from './components/search_bar';
+
 const API_KEY = 'AIzaSyCaG0y6KkBWTMhphOiewHC0QidwTxfhvD8';
 
 // Create a new Component. This component should produce some HTML
@@ -8,7 +10,7 @@ const API_KEY = 'AIzaSyCaG0y6KkBWTMhphOiewHC0QidwTxfhvD8';
 const App = () => {
   return (
     <div>
-      Hi!
+      <SearchBar />
     </div>
   );
 }
