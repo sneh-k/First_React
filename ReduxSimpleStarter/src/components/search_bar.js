@@ -3,11 +3,13 @@ import React, { Component } from 'react'; //stmnt is equal to var Component = Re
 class SearchBar extends Component{
 
   //every class must have single render function
-  render(){
-
+  render() {
     return (
-      <input />
+      <input onChange={this.onInputChange} />
     );
+  }
+
+  onInputChange() {
 
   }
 
