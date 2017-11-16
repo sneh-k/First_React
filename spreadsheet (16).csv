@@ -1,0 +1,4 @@
+ID,,,,,,,,,,,,,,,,,,,,,Volume Banded SMS MT Fee,Volume Banded SMS MT Fee,Volume Banded SMS MT Fee,Volume Banded SMS MT Fee
+Supplier ID,ISO Country Code,Country ID,Operator ID,SMSCID,Smsc Name,Destination Country,Destination Operator,Net Cost,Additional Comments,Comments,Alphanumeric TPOA Support,TPOA (Received),Subscribers,Mobile Ack,Operator Type,Supplier Name,Connection Type,Throughput,Currency,"1-250,000","250,001-500,000","500,001-1,000,000","1,000,001-Over"
+"1572744","2",,"45","27","9315","SE_42Telecom_Bulk_TRx_G1_Gen_Indirect_Real","Austria","Telering(T-MOBILE AUSTRIA)","0.012000-0.011000","null","null",,"null","null",,"STANDARD","42Telecom_G1_Bulk","IP","0","EUR","0.02941","0.02899","0.02817","0.02703"
+"1572745","1",,"206","10604","null","null","Afghanistan","Afghan Telecom (Salaam)","0.020000-0.012200","null","",,"","null",,"STANDARD","2Degrees New Zealand","IP","0","EUR","0.02491","0.02899","0.02817","0.02703"
